@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSky", "MovieSky\MovieSky\MovieSky.csproj", "{269D4929-AA01-40F7-BEF6-A12F985B8EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSky.Android", "MovieSky\MovieSky.Android\MovieSky.Android.csproj", "{FEFA6173-CC78-4877-B356-CEE20E19C152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSky.Desktop", "MovieSky\MovieSky.Desktop\MovieSky.Desktop.csproj", "{C383DB09-FC84-4DEB-B473-105EFB2B69C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSky.iOS", "MovieSky\MovieSky.iOS\MovieSky.iOS.csproj", "{31DA6E8C-CF35-4885-BF80-09FE9598433F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieSky.Browser", "MovieSky\MovieSky.Browser\MovieSky.Browser.csproj", "{53034AFA-94E1-4F01-8165-8402A5B865C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269D4929-AA01-40F7-BEF6-A12F985B8EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269D4929-AA01-40F7-BEF6-A12F985B8EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269D4929-AA01-40F7-BEF6-A12F985B8EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269D4929-AA01-40F7-BEF6-A12F985B8EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFA6173-CC78-4877-B356-CEE20E19C152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEFA6173-CC78-4877-B356-CEE20E19C152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEFA6173-CC78-4877-B356-CEE20E19C152}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FEFA6173-CC78-4877-B356-CEE20E19C152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEFA6173-CC78-4877-B356-CEE20E19C152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEFA6173-CC78-4877-B356-CEE20E19C152}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C383DB09-FC84-4DEB-B473-105EFB2B69C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C383DB09-FC84-4DEB-B473-105EFB2B69C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C383DB09-FC84-4DEB-B473-105EFB2B69C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C383DB09-FC84-4DEB-B473-105EFB2B69C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DA6E8C-CF35-4885-BF80-09FE9598433F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DA6E8C-CF35-4885-BF80-09FE9598433F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DA6E8C-CF35-4885-BF80-09FE9598433F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31DA6E8C-CF35-4885-BF80-09FE9598433F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DA6E8C-CF35-4885-BF80-09FE9598433F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DA6E8C-CF35-4885-BF80-09FE9598433F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{53034AFA-94E1-4F01-8165-8402A5B865C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53034AFA-94E1-4F01-8165-8402A5B865C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53034AFA-94E1-4F01-8165-8402A5B865C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53034AFA-94E1-4F01-8165-8402A5B865C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
